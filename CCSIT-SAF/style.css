@@ -1,0 +1,42 @@
+h2{
+    color:brown;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(255, 252, 252);
+    border:3px;
+    border-style: dotted;
+    border-color: rgb(218, 164, 98);
+    border-radius: 32px;
+}
+p{
+    color: burlywood;
+    border: 2px solid red;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+table,th,td{
+    border: 2px solid black;
+    border-style: dotted;
+    width: 50% ;
+    color: blanchedalmond;
+    border-color: green;
+}
+th{
+    background-color: black;
+}
+td{
+    background-color: coral;
+}
+img{
+    width: 50%;
+    margin-left: 25%;
+}
+.headingclass{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaRx6q8815q_MTD6JSWYeRnq2P_daVKbSiAA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  background-color: blueviolet;
+  margin: 40px 90px 0px 30px;
+  padding: 30px 60px 10px 40px;
+}
